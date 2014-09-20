@@ -12,4 +12,4 @@ functionality and accessibility guidelines for web interfaces</p>
 <li> Properly formed and valid xhtml or html5</li>
 <li> A connected CSS style sheet (internal or external) with separate definitions for screen and print media</li>
 <li>one relevant image</li>
-<li>In-text citations as well as a list of works cited is required (APA style)</li></ul>
+<li>In-text citations as well as a list of works cited (APA style)</li></ul>
