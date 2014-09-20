@@ -1,0 +1,78 @@
+/* print style sheet*/
+
+h1{
+    font-family: 'Copperplate Gothic Light';
+    text-decoration:underline;}
+
+h3{
+   font-family: 'Copperplate Gothic Light'; 
+   text-decoration:underline;}
+
+h4{
+    font-family: 'Copperplate Gothic Light';text-decoration:underline;}
+
+p{
+    text-align: LEFT;
+    font-family: 'book antiqua', georgia, 'times new roman', times, serif; 
+    font-size:large;
+    line-height: 140%;
+    max-width:600px;}
+
+article {
+    border:6px ridge black;
+    width: 900px;
+    background-color: #ffe0b6;
+    padding: 25px 150px 300px 35px;
+    margin:auto;
+    max-width:700px;
+    max-height:7040px;
+    line-height:150%;}
+
+.blockquote{
+    background:#F9775C;
+    margin: 0em 8em 1.6em 0.8em;
+    padding: 1.4em 1em 0.1em 1em;
+    border-left:5px solid #7f1315;}
+
+div.open-quote{
+    background:#F9775C;
+    margin: 1em 8em 1.6em 0.8em;
+    padding: 1em 1em 1em 1em;
+    border-left:5px solid #7f1315;
+    text-align:center;
+    text-indent:hanging;
+}
+
+
+.tile{
+    margin: 5px 150px 5px 35px;}
+    
+figure.right {
+    width: 300px;
+    padding: 5px;
+    float: right;}
+
+figure.right img{
+    width: 250px;
+    height: auto;}
+
+ol{
+line-height:150%;
+list-style-type:none;
+text-indent:hanging;}
+
+
+ol{
+line-height:150%;
+list-style-type:none;
+text-indent:hanging;
+text-indent:-22px;}
+
+.hangingindent{
+  text-indent:-22px;  
+}
+
+a.href{
+   color:blue;
+   text-decoration:none;
+}
