@@ -1,7 +1,7 @@
 Typography
 ==========
 
-This HTML page was created for <ahref="http://info6620.informationmanagement.dal.ca/assignments-f13.html"] INFO 6620: Electronic Text Design</a>. 
+This HTML page was created for <ahref="http://info6620.informationmanagement.dal.ca/assignments-f13.html" INFO 6620: Electronic Text Design</a>. 
 
 <h2>Goal</h2>
 <p> To compose an essay base on an electronig degin topic, to be displayed on a website, keeping in mind principles of readibility, 
